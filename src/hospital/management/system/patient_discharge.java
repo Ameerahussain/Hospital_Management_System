@@ -26,6 +26,8 @@ public class patient_discharge extends JFrame {
         label2.setForeground(Color.white);
         panel.add(label2);
 
+
+        //ameerah//
         Choice choice = new Choice();
         choice.setBounds(200,80,150,25);
         panel.add(choice);
